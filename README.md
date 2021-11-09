@@ -1,7 +1,7 @@
 Astropy Paper III
 =================
 
-[![PDF](https://img.shields.io/badge/latex-PDF-blueviolet.svg?style=flat)](https://github.com/astropy/astropy-v5.0-paper/blob/gh-pages/astropy-paper-3.pdf)
+[![PDF](https://img.shields.io/badge/latex-PDF-blueviolet.svg?style=flat)](https://github.com/astropy/astropy-v5.0-paper/raw/main-pdf/ms.pdf)
 
 
 Scope of the Paper
